@@ -1,2 +1,2 @@
 # aggr
-aggr.trade presets
+Go to [v3.aggr.trade](https://v3.aggr.trade/g0cz) and click the three dots in the lower right corner --> Settings --> open the work "Workspaces" Settings --> click the plus --> click "upload Template" --> Trade smart
