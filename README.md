@@ -1,0 +1,2 @@
+# aggr
+aggr.trade presets
